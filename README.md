@@ -1,16 +1,15 @@
-# locationtest
+# Flutter App Android Background Location Permission Handler
 
-A new Flutter project.
+This Flutter app demonstrates how to check and request background location permission using MethodChannel in Flutter with Android Kotlin.
+
+## Features
+
+- Check the status of the background location permission.
+- Open the app settings screen to manage permissions.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/akshaynjarangal/background_location_handler.git
